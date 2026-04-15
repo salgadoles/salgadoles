@@ -1,5 +1,9 @@
 <!-- BANNER -->
+## 📊 Meu gráfico de contribuições
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sal%20Lima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
