@@ -1,29 +1,25 @@
-<!-- BANNER -->
-## 📊 Meu gráfico de contribuições
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sal%20Lima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=salgadoles&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <!-- TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Criando+sites+modernos;Automacoes+e+integracoes;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%26+Designer;Building+modern+web+experiences;Automation+and+system+integration;Always+learning+and+evolving" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
 ```js
 const sal = {
-  foco: "Desenvolvimento Web",
-  linguagens: ["JavaScript", "TypeScript", "PHP"],
-  ferramentas: ["Node.js", "WordPress", "RD Station"],
-  especialidade: ["Automação", "Integrações", "UX"],
+  role: "Full Stack Developer & Designer",
+  focus: "Web Development",
+  languages: ["JavaScript", "TypeScript", "PHP"],
+  tools: ["Node.js", "Next.js", "React", "MySQL"],
+  design: ["Figma", "Procreate", "UI/UX"],
+  specialties: ["Automation", "Integrations", "User Experience"],
 };
 ```
 
@@ -42,7 +38,7 @@ const sal = {
 
 ---
 
-## 🧊 Contribuições 3D
+## 🧊 3D Contributions
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
@@ -50,23 +46,27 @@ const sal = {
 
 ---
 
-## 🐍 Pac-Man Contributions
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/salgadoles/salgadoles/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css,git,wordpress" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mysql,html,css,tailwind,git" />
+</p>
+
+<p align="center">
+  🎨 Figma • Procreate • UI Design • Visual Systems
 </p>
 
 ---
 
-## 🌐 Contato
+## 🌐 Contact
 
 <p align="center">
   <a href="https://linkedin.com">
@@ -79,10 +79,10 @@ const sal = {
 
 ---
 
-## ⚡ Filosofia
+## ⚡ Philosophy
 
 <p align="center">
-  <i>"Código bom resolve problema. Código excelente evita que ele aconteça."</i>
+  <i>"Good code solves problems. Great code prevents them."</i>
 </p>
 
 ---
