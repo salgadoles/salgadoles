@@ -53,9 +53,6 @@ const sal = {
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=salgadoles&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salgadoles&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
