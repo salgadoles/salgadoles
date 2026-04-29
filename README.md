@@ -93,9 +93,8 @@ const sal = {
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/yqGJSngXaaa9W/giphy.gif" width="300px">
-</p>
+<img align="center" alt="Pixel Art Coding" width="600" src="https://i.redd.it/bpxxqqvps4h91.gif">
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
