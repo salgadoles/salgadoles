@@ -83,8 +83,9 @@ const sal = {
 ---
 
 ## Contact
+<img align="right" alt="Pixel Art Coding" width="600" src="https://i.redd.it/bpxxqqvps4h91.gif">
 
-<p align="center">
+<p>
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -93,7 +94,6 @@ const sal = {
   </a>
 </p>
 
-<img align="center" alt="Pixel Art Coding" width="600" src="https://i.redd.it/bpxxqqvps4h91.gif">
 
 
 <p align="center">
